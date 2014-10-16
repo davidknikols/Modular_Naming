@@ -1,0 +1,70 @@
+STUNNER COPY THINKING
+
+
+THE FORMULA IS TO ADD A WORD TO CO-EXIST WITH THE SECTION (ID) "stun" =  <sectiopn id="alpha_stun"></section>
+I THINK OF ALPHA AS MEANING FIRST, SO I MAKE THE CONNECTION AS THE FIRST SECTION WITH STUNNER COPY ON THE WEBSITE
+IF THE STUNNER COPY IS RELATED TO WORK THEN MAYBE <sectiopn id="work_stun"></section> SO WE ALWAYS START NATIVE AND 
+ADAPT TO THE NEW SETTING PER PROJECT.
+
+AS FAR AS THE COPY LINES IN THE STUNNER- THE CLASS NAME (line- xxxxxx) which are CYAN MAGENTA YELLOW BLACK, ARE PERFECT
+SINCE THEY DONT CLAIM ANY ORDER AND CAN BE STACKED IN ANY ORDER, IF MORE THAN FOUR LINES ARE NEEDED THE BACK UP OF 
+( RED GREEN BLUE ) SHOULD BE ENOUGH TO COVER ANY EXTRAORDINARY STUNNER COPY.
+
+BY SELF NAMING THE ADD ON TO THE ID (stun) ...(line) CLASS CAN BE CLONED SETTINGS CHANGED AND TARGETED
+...BECAUSE WE WOULD SCOPE THE PARENT THEN TRAVERSE DOWN INTO THE (LINE-) CLASS.....
+
+
+<section id="stun">
+
+<div class=" text-center text-uppercase line-cyan">
+                FIRST LINE OF STUNNER COPY
+            </div>
+
+<div class=" text-center text-uppercase line-magenta">
+                SECOND LINE OF STUNNER COPY
+            </div>
+
+<div class=" text-center text-uppercase line-yellow">
+                THIRD LINE OF STUNNER COPY
+            </div>            
+
+<div class=" text-center text-uppercase line-black">
+                THIRD LINE OF STUNNER COPY
+            </div>  
+
+
+</section>
+
+THIS IS WHAT I GATHER SO FAR A LINE OF STUNNER CAN USE TO COMPLETELY DEFERENTIATE ITSELF, SO THIS CAN BE ORGANIZED AND CLONED
+THROUGHOUT ITS REPURPOSE ON THE SITE, EVERY STUNNER ON THE PAGE CAN START OF WITH THIS MODULE AND THEN CUSTOMIZE IT 
+
+
+
+#XXXXX-stun .line-XXXXX {
+font-family: 'Oswald', sans-serif;
+text-transform: uppercase;
+font-weight: 300;
+font-size: 1.563em;
+line-height: 1.2em;
+color: #e6e39d;
+margin-top: 0px;
+margin-bottom: 0px;
+padding: 0px 0px 20px 0px;
+letter-spacing: 3px;
+text-shadow: 0px 1px 1px #000000; 
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+
+
+
+
+
+
+
+
+
+
